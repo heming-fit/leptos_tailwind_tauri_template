@@ -30,6 +30,7 @@ npm -v
 > 克隆仓库
 ~~~
 git clone https://github.com/heming-fit/leptos_tailwind_tauri_template.git
+cd leptos_tailwind_tauri_template
 ~~~
 #### Install dependencies
 > 安装依赖
