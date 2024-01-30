@@ -38,6 +38,13 @@ rustup target add wasm32-unknown-unknown
 cargo install trunk wasm-bindgen-cli tauri-cli
 npm install
 ~~~
+#### Check dependencies
+> 检查依赖
+~~~
+trunk -V
+wasm-bindgen -V
+cargo tauri -V
+~~~
 
 ## II. Project release
 > II. 项目发布
