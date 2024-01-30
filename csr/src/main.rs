@@ -6,7 +6,5 @@ fn main() {
 
 #[component]
 fn App() -> impl IntoView {
-    view! {
-        <h1 class="text-3xl font-bold underline">Hello world leptos1!</h1>
-    }
+    view! { <h1 class="text-3xl font-bold underline">Hello leptos!</h1> }
 }
